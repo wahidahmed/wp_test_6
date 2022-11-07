@@ -27,7 +27,7 @@
             <h2>wow</h2>
             <h2>nice</h2>
             <h2>agani</h2>
-            <h2>all are correct</h2>
+            <h2>all are correct and tested</h2>
             <h1>github link : https://github.com/wahidahmed/wp_test </h1>
             <p>this is a good platform</p>
             <p>this is a rm</p>
